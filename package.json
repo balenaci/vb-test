@@ -1,5 +1,6 @@
 {
   "name": "resin-vb-tst",
+  "private": true,
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/resin-io/vb-test/issues"
   },
-  "homepage": "https://github.com/resin-io/vb-test#readme"
+  "homepage": "https://github.com/resin-io/vb-test#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "semver": "^5.5.1"
+  }
 }
