@@ -19,6 +19,11 @@ module.exports = {
     const revision = Number(currentVersion[currentVersion.length - 1])
     return currentVersion.slice(0, currentVersion.length - 1) + (revision + 1)
   },
+  getIncrementLevelFromCommit: (commit) => {
+    if (isIncrementalCommit(commit.footer['change-type'])) {
+      return commit.footer['change-type'].trim().toLowerCase();
+    }
+  },
   getCurrentVersion: (documentedVersions, history, callback) => {
     const latestDocumented =  _.trim(_.last(documentedVersions.sort(semver.compare)))
     const metaVersion = _.reduce(history, (acc, commit) => {
