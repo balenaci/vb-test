@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/resin-io/vb-test/issues"
   },
-  "homepage": "https://github.com/resin-io/vb-test#readme"
+  "homepage": "https://github.com/resin-io/vb-test#readme",
+  "dependencies": {
+    "tough-cookie": "^2.3.4"
+  }
 }
