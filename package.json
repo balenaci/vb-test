@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/resin-io/vb-test/issues"
   },
-  "homepage": "https://github.com/resin-io/vb-test#readme"
+  "homepage": "https://github.com/resin-io/vb-test#readme",
+  "dependencies": {
+    "url-parse": "^1.0.5"
+  }
 }
