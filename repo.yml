@@ -1,6 +1,0 @@
-type: electron
-publishMetadata: true
-triggerNotification:
-    version: 3.0.27
-    stagingPercentage: 55
-
