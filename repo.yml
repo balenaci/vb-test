@@ -1,0 +1,5 @@
+type: node
+esr:
+  version: 2019.07.0
+  line: next
+
