@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 2.2.1 - 2019-06-27
 
+* Another commit [Giovanni Garufi]
 * Decalre ESR [Giovanni Garufi]
 
 ## v2.2.0 - 2018-09-20
