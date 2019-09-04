@@ -1,4 +1,5 @@
-type: node
+type: node-cli
+release: github
 esr:
   version: 2.2
   line: next
