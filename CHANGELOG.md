@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 2.2.2 - 2019-09-04
 
+* Test named release [Giovanni Garufi]
 * Test gh-release [Giovanni Garufi]
 
 ## 2.2.1 - 2019-06-27
