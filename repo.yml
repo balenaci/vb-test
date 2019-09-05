@@ -2,6 +2,3 @@ type: node-cli
 release: github
 github_release:
   name: 'vb-test %{version}'
-esr:
-  version: 2.2
-  line: next
