@@ -1,0 +1,12 @@
+- commits:
+    - subject: 'prefix: Subject'
+      hash: d0f93bedbcd4030c206b8ddca069bef07c24b245
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.5
+  date: 2019-09-13T08:57:16.931Z
