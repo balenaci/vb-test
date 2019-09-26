@@ -1,0 +1,7 @@
+type: test
+slug: vb-test
+name: test contract
+tags: []
+data:
+  prop: a
+version: 2.2.11
