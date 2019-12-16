@@ -1,4 +1,0 @@
-type: node-cli
-release: github
-github_release:
-  name: 'vb-test %{version}'
