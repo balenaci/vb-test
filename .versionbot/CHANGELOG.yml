@@ -1,4 +1,16 @@
 - commits:
+    - subject: test rebase
+      hash: a212955279e36490700065deb50caefa4792f0f3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.13
+  date: 2019-12-17T10:07:52.825Z
+- commits:
     - subject: Test rebase-2
       hash: eed632e0974220e48f5644c25a7d5c87cf69f63c
       body: ''
