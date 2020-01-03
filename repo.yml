@@ -1,0 +1,10 @@
+type: docker
+upstream:
+  - repo: balena-versionist
+    url: https://github.com/balena-io/balena-versionist
+  - repo: versionist
+    url: https://github.com/balena-io/versionist
+backports:
+  foo: bar
+  qux: baz
+  baz: qux
