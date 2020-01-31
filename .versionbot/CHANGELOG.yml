@@ -1,4 +1,36 @@
 - commits:
+    - subject: Test valid rebase
+      hash: e4212c6603fe9f1c42d9591deaa9008369748b71
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test 2
+      hash: 315b880ee803fed3e8c5e4110ebaf09ba9354f05
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test
+      hash: 910f60761cbeaafcae709ce35fc555207fc4cacf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: qux
+        backport-to: qux
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.14
+  date: 2020-01-31T13:08:08.822Z
+- commits:
     - subject: test rebase
       hash: a212955279e36490700065deb50caefa4792f0f3
       body: ''
