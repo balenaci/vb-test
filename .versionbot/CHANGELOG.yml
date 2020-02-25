@@ -1,4 +1,29 @@
 - commits:
+    - subject: test bp 2
+      hash: 50105561da8153d1e412e134d6b4ccc082cc2ede
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: foo
+        backport-to: foo
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test BP
+      hash: 533d6865f308ed1db8b431ecdf5925a10dd0cde6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: 'foo, qux'
+        backport-to: 'foo, qux'
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.15
+  date: 2020-02-25T14:53:29.827Z
+- commits:
     - subject: Test valid rebase
       hash: e4212c6603fe9f1c42d9591deaa9008369748b71
       body: ''
