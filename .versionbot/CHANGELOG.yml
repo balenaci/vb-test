@@ -1,4 +1,16 @@
 - commits:
+    - subject: test release duplication
+      hash: 6e9b8d98a60263f4ad9f6e37c3b5834c7e7fd283
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.16
+  date: 2020-02-26T23:53:42.251Z
+- commits:
     - subject: test bp 2
       hash: 50105561da8153d1e412e134d6b4ccc082cc2ede
       body: ''
