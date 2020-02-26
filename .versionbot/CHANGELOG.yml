@@ -1,0 +1,174 @@
+- commits:
+    - subject: test bp 2
+      hash: 50105561da8153d1e412e134d6b4ccc082cc2ede
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: foo
+        backport-to: foo
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test BP
+      hash: 533d6865f308ed1db8b431ecdf5925a10dd0cde6
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: 'foo, qux'
+        backport-to: 'foo, qux'
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.15
+  date: 2020-02-25T14:53:29.827Z
+- commits:
+    - subject: Test valid rebase
+      hash: e4212c6603fe9f1c42d9591deaa9008369748b71
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test 2
+      hash: 315b880ee803fed3e8c5e4110ebaf09ba9354f05
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: test
+      hash: 910f60761cbeaafcae709ce35fc555207fc4cacf
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Backport-to: qux
+        backport-to: qux
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.14
+  date: 2020-01-31T13:08:08.822Z
+- commits:
+    - subject: test rebase
+      hash: a212955279e36490700065deb50caefa4792f0f3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.13
+  date: 2019-12-17T10:07:52.825Z
+- commits:
+    - subject: Test rebase-2
+      hash: eed632e0974220e48f5644c25a7d5c87cf69f63c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+    - subject: Test rebase
+      hash: 7ecae9be77a97c32caae1584a515f6b25b1bcf95
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.12
+  date: 2019-12-16T16:15:23.023Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: 6538863a3fae2f306bbdb137a2a9558a9da002cb
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.11
+  date: 2019-09-26T11:35:25.506Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: 33bc4c875317b2ab1b7c5d87a214a642edd0a0af
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.10
+  date: 2019-09-26T10:49:07.304Z
+- commits:
+    - subject: Testing publish
+      hash: a62732f73eecca387632e31e0d855e987fb7604d
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.9
+  date: 2019-09-26T10:17:07.179Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: 86b491bf05bdbd9794d153219bfd1fabf5a35df2
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.8
+  date: 2019-09-13T12:05:47.248Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: bd6eab4a83c8590821263f92a73988dd9fafc2e4
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.7
+  date: 2019-09-13T10:13:35.627Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: bed063e23578a033804b1ca0f3b1a0fdad09079c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.6
+  date: 2019-09-13T09:50:17.459Z
+- commits:
+    - subject: 'prefix: Subject'
+      hash: d0f93bedbcd4030c206b8ddca069bef07c24b245
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.5
+  date: 2019-09-13T08:57:16.931Z
