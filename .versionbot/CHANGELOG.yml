@@ -1,5 +1,17 @@
 - commits:
     - subject: empty
+      hash: 550da94c7804b3c4037267ce381ea8ae000ddf3b
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+  version: 2.2.19
+  date: 2020-06-23T13:17:35.876Z
+- commits:
+    - subject: empty
       hash: f120634b7ef6e68b021ff2231804df4bb9304fea
       body: ''
       footer:
