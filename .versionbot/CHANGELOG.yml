@@ -1,4 +1,18 @@
 - commits:
+    - subject: 'prefix: Subject'
+      hash: 38f42128dec0b4bf3fdea6ceb57a3fa986eb4c51
+      body: |
+        Commit body
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Giovanni Garufi <giovanni@balena.io>
+        signed-off-by: Giovanni Garufi <giovanni@balena.io>
+      author: Giovanni Garufi
+      nested: []
+  version: 2.2.22
+  date: 2021-04-21T12:19:37.084Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''
