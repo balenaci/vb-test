@@ -1,4 +1,17 @@
 - commits:
+    - subject: Test trivy
+      hash: aca279238952a1a1042d143812501c9e6bcbf19d
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Stathis Moraitidis <stathis@balena.io>
+        signed-off-by: Stathis Moraitidis <stathis@balena.io>
+      author: Stathis
+      nested: []
+  version: 2.2.22
+  date: 2021-05-12T11:38:32.822Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''
