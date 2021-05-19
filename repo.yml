@@ -1,4 +1,4 @@
-type: docker
+type: elecron
 upstream:
   - repo: balena-versionist
     url: https://github.com/balena-io/balena-versionist
