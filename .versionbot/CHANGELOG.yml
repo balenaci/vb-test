@@ -1,4 +1,27 @@
 - commits:
+    - subject: Stathis npm build
+      hash: 909e79adf5eca71192bf8ecf5c53234a1d42472d
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Stathis Moraitidis <stathis@balena.io>
+        signed-off-by: Stathis Moraitidis <stathis@balena.io>
+      author: Stathis
+      nested: []
+    - subject: Stathis docker build
+      hash: e5e5373890c68329f54e231be767883780b8f23c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Stathis Moraitidis <stathis@balena.io>
+        signed-off-by: Stathis Moraitidis <stathis@balena.io>
+      author: Stathis
+      nested: []
+  version: 2.2.22
+  date: 2021-05-24T14:21:10.035Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''
