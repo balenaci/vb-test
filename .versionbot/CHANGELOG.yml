@@ -1,4 +1,16 @@
 - commits:
+    - subject: Stathis electron test
+      hash: 59efbdd080a3d824bf739acc681d1b76a1476a43
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Stathis Moraitidis <stathis@balena.io>
+        signed-off-by: Stathis Moraitidis <stathis@balena.io>
+      author: Stathis
+  version: 2.2.22
+  date: 2021-05-26T15:16:07.371Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''
