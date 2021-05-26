@@ -1,4 +1,17 @@
 - commits:
+    - subject: Stathis balena build
+      hash: be6c4ba3beb342b5b53e3a1ab8b2762388fc9348
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Stathis Moraitidis <stathis@balena.io>
+        signed-off-by: Stathis Moraitidis <stathis@balena.io>
+      author: Stathis
+      nested: []
+  version: 2.2.22
+  date: 2021-05-26T15:14:16.733Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''
