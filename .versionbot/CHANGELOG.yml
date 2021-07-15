@@ -1,4 +1,15 @@
 - commits:
+    - subject: Empty
+      hash: beeb0de1e9182d730f15ad2a3af71ad5cf320189
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 2.2.22
+  date: 2021-07-15T21:51:19.828Z
+- commits:
     - subject: Test compose secrets
       hash: 5e34d5b54770689ba68e0b520c2fa9d8649e3201
       body: ''

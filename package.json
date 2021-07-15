@@ -1,6 +1,6 @@
 {
   "name": "resin-vb-tst",
-  "version": "2.2.21",
+  "version": "2.2.22",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/resin-io/vb-test/issues"
   },
-  "homepage": "https://github.com/resin-io/vb-test#readme"
+  "homepage": "https://github.com/resin-io/vb-test#readme",
+  "versionist": {
+    "publishedAt": "2021-07-15T21:51:19.879Z"
+  }
 }
