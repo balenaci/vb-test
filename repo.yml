@@ -1,4 +1,4 @@
-type: docker
+type: balena
 upstream:
   - repo: balena-versionist
     url: https://github.com/balena-io/balena-versionist
