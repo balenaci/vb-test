@@ -1,5 +1,16 @@
 - commits:
     - subject: Empty
+      hash: 471491ac1f9662b718972ead361b9f9c9f06f337
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 2.2.25
+  date: 2021-07-16T16:00:41.042Z
+- commits:
+    - subject: Empty
       hash: c2caa21af5c73141788ad135796941fa88f2c605
       body: ''
       footer:
